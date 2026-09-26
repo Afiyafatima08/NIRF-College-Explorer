@@ -1,0 +1,802 @@
+[
+  {
+    "rank": 1,
+    "name": "Indian Institute of Technology Madras",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "IIT",
+    "score": 88.72
+  },
+  {
+    "rank": 2,
+    "name": "Indian Institute of Technology Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "IIT",
+    "score": 85.74
+  },
+  {
+    "rank": 3,
+    "name": "Indian Institute of Technology Bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "IIT",
+    "score": 83.65
+  },
+  {
+    "rank": 4,
+    "name": "Indian Institute of Technology Kanpur",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "type": "IIT",
+    "score": 81.82
+  },
+  {
+    "rank": 5,
+    "name": "Indian Institute of Technology Kharagpur",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "type": "IIT",
+    "score": 78.69
+  },
+  {
+    "rank": 6,
+    "name": "Indian Institute of Technology Roorkee",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "type": "IIT",
+    "score": 75.44
+  },
+  {
+    "rank": 7,
+    "name": "Indian Institute of Technology Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIT",
+    "score": 72.31
+  },
+  {
+    "rank": 8,
+    "name": "Indian Institute of Technology Guwahati",
+    "city": "Guwahati",
+    "state": "Assam",
+    "type": "IIT",
+    "score": 72.24
+  },
+  {
+    "rank": 9,
+    "name": "National Institute of Technology Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "NIT",
+    "score": 68.14
+  },
+  {
+    "rank": 10,
+    "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "type": "IIT",
+    "score": 67.24
+  },
+  {
+    "rank": 11,
+    "name": "Birla Institute of Technology & Science -Pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "type": "Deemed University",
+    "score": 67.02
+  },
+  {
+    "rank": 12,
+    "name": "Indian Institute of Technology Indore",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "IIT",
+    "score": 66.65
+  },
+  {
+    "rank": 13,
+    "name": "National Institute of Technology Rourkela",
+    "city": "Rourkela",
+    "state": "Odisha",
+    "type": "NIT",
+    "score": 66.62
+  },
+  {
+    "rank": 14,
+    "name": "S.R.M. Institute of Science and Technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 65.83
+  },
+  {
+    "rank": 15,
+    "name": "Indian Institute of Technology (Indian School of Mines)",
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "type": "IIT",
+    "score": 65.37
+  },
+  {
+    "rank": 16,
+    "name": "Vellore Institute of Technology",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 65.25
+  },
+  {
+    "rank": 17,
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "city": "Surathkal",
+    "state": "Karnataka",
+    "type": "NIT",
+    "score": 64.59
+  },
+  {
+    "rank": 18,
+    "name": "Jadavpur University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "State University",
+    "score": 64.54
+  },
+  {
+    "rank": 19,
+    "name": "Indian Institute of Technology Patna",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "IIT",
+    "score": 64.52
+  },
+  {
+    "rank": 20,
+    "name": "Anna University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "State University",
+    "score": 63.51
+  },
+  {
+    "rank": 21,
+    "name": "National Institute of Technology Calicut",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "type": "NIT",
+    "score": 63.05
+  },
+  {
+    "rank": 22,
+    "name": "Siksha `O` Anusandhan",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "Deemed University",
+    "score": 62.58
+  },
+  {
+    "rank": 23,
+    "name": "Amrita Vishwa Vidyapeetham",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 62.46
+  },
+  {
+    "rank": 24,
+    "name": "Jamia Millia Islamia",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "Central University",
+    "score": 62.42
+  },
+  {
+    "rank": 25,
+    "name": "Indian Institute of Technology Gandhinagar",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "type": "IIT",
+    "score": 62.31
+  },
+  {
+    "rank": 26,
+    "name": "Indian Institute of Technology Mandi",
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "type": "IIT",
+    "score": 62.08
+  },
+  {
+    "rank": 27,
+    "name": "Indian Institute of Technology Jodhpur",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "type": "IIT",
+    "score": 61.31
+  },
+  {
+    "rank": 28,
+    "name": "National Institute of Technology Warangal",
+    "city": "Warangal",
+    "state": "Telangana",
+    "type": "NIT",
+    "score": 61.05
+  },
+  {
+    "rank": 29,
+    "name": "Thapar Institute of Engineering and Technology (Deemed-to-be-university)",
+    "city": "Patiala",
+    "state": "Punjab",
+    "type": "Deemed University",
+    "score": 60.97
+  },
+  {
+    "rank": 30,
+    "name": "Delhi Technological University",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "State University",
+    "score": 60.85
+  },
+  {
+    "rank": 31,
+    "name": "Chandigarh University",
+    "city": "Mohali",
+    "state": "Punjab",
+    "type": "Private University",
+    "score": 60.46
+  },
+  {
+    "rank": 32,
+    "name": "Indian Institute of Technology Ropar",
+    "city": "Rupnagar",
+    "state": "Punjab",
+    "type": "IIT",
+    "score": 59.66
+  },
+  {
+    "rank": 33,
+    "name": "Kalasalingam Academy of Research and Education",
+    "city": "Krishnan Koil",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 59.03
+  },
+  {
+    "rank": 34,
+    "name": "Aligarh Muslim University",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "type": "Central University",
+    "score": 59.01
+  },
+  {
+    "rank": 35,
+    "name": "Koneru Lakshmaiah Education Foundation University (K L College of Engineering)",
+    "city": "Vaddeswaram",
+    "state": "Andhra Pradesh",
+    "type": "Deemed University",
+    "score": 58.95
+  },
+  {
+    "rank": 36,
+    "name": "Kalinga Institute of Industrial Technology",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "Deemed University",
+    "score": 58.79
+  },
+  {
+    "rank": 37,
+    "name": "Amity University",
+    "city": "Gautam Budh Nagar",
+    "state": "Uttar Pradesh",
+    "type": "Private University",
+    "score": 58.53
+  },
+  {
+    "rank": 38,
+    "name": "International Institute of Information Technology Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Deemed University",
+    "score": 58.45
+  },
+  {
+    "rank": 39,
+    "name": "Indian Institute of Technology Bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "IIT",
+    "score": 58.22
+  },
+  {
+    "rank": 40,
+    "name": "Shanmugha Arts Science Technology & Research Academy",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 58.02
+  },
+  {
+    "rank": 41,
+    "name": "Institute of Chemical Technology",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "Deemed University",
+    "score": 57.96
+  },
+  {
+    "rank": 42,
+    "name": "Malaviya National Institute of Technology",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "NIT",
+    "score": 57.45
+  },
+  {
+    "rank": 43,
+    "name": "UPES",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Private University",
+    "score": 56.99
+  },
+  {
+    "rank": 44,
+    "name": "Visvesvaraya National Institute of Technology, Nagpur",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "type": "NIT",
+    "score": 56.58
+  },
+  {
+    "rank": 45,
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 56.55
+  },
+  {
+    "rank": 46,
+    "name": "Symbiosis International",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Deemed University",
+    "score": 56.22
+  },
+  {
+    "rank": 47,
+    "name": "Sri Sivasubramaniya Nadar College of Engineering",
+    "city": "Kalavakkam",
+    "state": "Tamil Nadu",
+    "type": "Private College",
+    "score": 56.08
+  },
+  {
+    "rank": 48,
+    "name": "Lovely Professional University",
+    "city": "Phagwara",
+    "state": "Punjab",
+    "type": "Private University",
+    "score": 55.99
+  },
+  {
+    "rank": 49,
+    "name": "National Institute of Technology Durgapur",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "type": "NIT",
+    "score": 55.94
+  },
+  {
+    "rank": 50,
+    "name": "National Institute of Technology Silchar",
+    "city": "Silchar",
+    "state": "Assam",
+    "type": "NIT",
+    "score": 55.91
+  },
+  {
+    "rank": 51,
+    "name": "Birla Institute of Technology",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "Deemed University",
+    "score": 55.28
+  },
+  {
+    "rank": 52,
+    "name": "Graphic Era University",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "type": "Deemed University",
+    "score": 55.26
+  },
+  {
+    "rank": 53,
+    "name": "National Institute of Technology Patna",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "NIT",
+    "score": 53.89
+  },
+  {
+    "rank": 54,
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "type": "Institute of National Importance",
+    "score": 53.63
+  },
+  {
+    "rank": 55,
+    "name": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "type": "NIT",
+    "score": 53.38
+  },
+  {
+    "rank": 56,
+    "name": "Indian Institute of Technology Jammu",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "type": "IIT",
+    "score": 53.08
+  },
+  {
+    "rank": 57,
+    "name": "Indian Institute of Technology, Tirupati",
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "type": "IIT",
+    "score": 52.73
+  },
+  {
+    "rank": 58,
+    "name": "Manipal University Jaipur",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "Private University",
+    "score": 52.69
+  },
+  {
+    "rank": 59,
+    "name": "Manipal Institute of Technology",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "type": "Private College",
+    "score": 52.55
+  },
+  {
+    "rank": 60,
+    "name": "Madan Mohan Malaviya University of Technology",
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "type": "State University",
+    "score": 52.45
+  },
+  {
+    "rank": 61,
+    "name": "Indian Institute of Space Science and Technology",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "type": "Institute of National Importance",
+    "score": 52.44
+  },
+  {
+    "rank": 62,
+    "name": "Motilal Nehru National Institute of Technology",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "NIT",
+    "score": 52.15
+  },
+  {
+    "rank": 63,
+    "name": "Indraprastha Institute of Information Technology",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "State University",
+    "score": 51.33
+  },
+  {
+    "rank": 64,
+    "name": "Indian Institute of Technology Palakkad",
+    "city": "Palakkad",
+    "state": "Kerala",
+    "type": "IIT",
+    "score": 51.20
+  },
+  {
+    "rank": 65,
+    "name": "National Institute of Technology Delhi",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "NIT",
+    "score": 50.79
+  },
+  {
+    "rank": 66,
+    "name": "Sardar Vallabhbhai National Institute of Technology",
+    "city": "SURAT",
+    "state": "Gujarat",
+    "type": "NIT",
+    "score": 50.77
+  },
+  {
+    "rank": 67,
+    "name": "Sathyabama Institute of Science and Technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 50.64
+  },
+  {
+    "rank": 67,
+    "name": "PSG College of Technology",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private College",
+    "score": 50.64
+  },
+  {
+    "rank": 69,
+    "name": "International Institute of Information Technology Bangalore",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Deemed University",
+    "score": 50.46
+  },
+  {
+    "rank": 70,
+    "name": "Netaji Subhas University of Technology (NSUT)",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "State University",
+    "score": 50.43
+  },
+  {
+    "rank": 71,
+    "name": "Banasthali Vidyapith",
+    "city": "Banasthali",
+    "state": "Rajasthan",
+    "type": "Deemed University",
+    "score": 50.38
+  },
+  {
+    "rank": 72,
+    "name": "Indian Institute of Technology Bhilai",
+    "city": "Durg",
+    "state": "Chhattisgarh",
+    "type": "IIT",
+    "score": 50.37
+  },
+  {
+    "rank": 73,
+    "name": "National Institute of Technology Srinagar",
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "type": "NIT",
+    "score": 50.23
+  },
+  {
+    "rank": 74,
+    "name": "University of Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Central University",
+    "score": 49.36
+  },
+  {
+    "rank": 75,
+    "name": "M. S. Ramaiah Institute of Technology",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Private College",
+    "score": 49.26
+  },
+  {
+    "rank": 76,
+    "name": "Christ University",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Deemed University",
+    "score": 49.03
+  },
+  {
+    "rank": 77,
+    "name": "Indian Institute of Technology Dharwad",
+    "city": "Dharwad",
+    "state": "Karnataka",
+    "type": "IIT",
+    "score": 48.61
+  },
+  {
+    "rank": 78,
+    "name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "city": "Amethi",
+    "state": "Uttar Pradesh",
+    "type": "Institute of National Importance",
+    "score": 48.52
+  },
+  {
+    "rank": 79,
+    "name": "Sant Longowal Institute of Engineering & Technology",
+    "city": "Longowal",
+    "state": "Punjab",
+    "type": "Institute of National Importance",
+    "score": 48.42
+  },
+  {
+    "rank": 80,
+    "name": "Vignan's Foundation for Science, Technology and Research",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "type": "Deemed University",
+    "score": 48.27
+  },
+  {
+    "rank": 81,
+    "name": "Maulana Azad National Institute of Technology",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "NIT",
+    "score": 48.26
+  },
+  {
+    "rank": 82,
+    "name": "National Institute of Technology, Jamshedpur",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "type": "NIT",
+    "score": 48.25
+  },
+  {
+    "rank": 83,
+    "name": "National Institute of Technology Meghalaya",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "type": "NIT",
+    "score": 48.21
+  },
+  {
+    "rank": 84,
+    "name": "Jain university,Bangalore",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Deemed University",
+    "score": 48.01
+  },
+  {
+    "rank": 85,
+    "name": "National Institute of Technology Kurukshetra",
+    "city": "Kurukshetra",
+    "state": "Haryana",
+    "type": "NIT",
+    "score": 47.98
+  },
+  {
+    "rank": 86,
+    "name": "National Institute of Technology, Raipur",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "type": "NIT",
+    "score": 47.59
+  },
+  {
+    "rank": 87,
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Deemed University",
+    "score": 47.43
+  },
+  {
+    "rank": 88,
+    "name": "AU College of Engineering (A)",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "University College",
+    "score": 47.37
+  },
+  {
+    "rank": 89,
+    "name": "Chitkara University",
+    "city": "Rajpura",
+    "state": "Punjab",
+    "type": "Private University",
+    "score": 47.34
+  },
+  {
+    "rank": 90,
+    "name": "COEP Technological University",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "State University",
+    "score": 47.31
+  },
+  {
+    "rank": 91,
+    "name": "SR University",
+    "city": "Warangal",
+    "state": "Telangana",
+    "type": "Private University",
+    "score": 47.16
+  },
+  {
+    "rank": 92,
+    "name": "Defence Institute of Advanced Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Deemed University",
+    "score": 46.98
+  },
+  {
+    "rank": 93,
+    "name": "Panjab University",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "type": "Central University",
+    "score": 46.90
+  },
+  {
+    "rank": 94,
+    "name": "Jawaharlal Nehru Technological University",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "State University",
+    "score": 46.74
+  },
+  {
+    "rank": 95,
+    "name": "C.V. Raman Global University, Odisha",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "Private University",
+    "score": 46.62
+  },
+  {
+    "rank": 96,
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "type": "Institute of National Importance",
+    "score": 46.25
+  },
+  {
+    "rank": 97,
+    "name": "National Institute of Technology Hamirpur",
+    "city": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "type": "NIT",
+    "score": 46.10
+  },
+  {
+    "rank": 98,
+    "name": "Pandit Deendayal Energy University",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "type": "Private University",
+    "score": 45.97
+  },
+  {
+    "rank": 99,
+    "name": "National Institute of Technology Puducherry",
+    "city": "Karaikal",
+    "state": "Pondicherry",
+    "type": "NIT",
+    "score": 45.83
+  },
+  {
+    "rank": 100,
+    "name": "Sri Krishna College of Engineering and Technology",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "Private College",
+    "score": 45.55
+  }
+]

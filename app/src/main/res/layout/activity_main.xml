@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/college"
+        android:scaleType="centerCrop"
+        android:alpha="1.0"
+        android:contentDescription="@null"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#40F3EEE6">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingTop="56dp"
+            android:paddingBottom="30dp">
+
+            <TextView
+                android:id="@+id/appTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="NIRF College Explorer"
+                android:textColor="#2F2924"
+                android:textSize="29sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:letterSpacing="0.015"
+                android:layout_marginTop="12dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Explore India's engineering colleges through NIRF rankings"
+                android:textColor="#756B63"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:lineSpacingExtra="3dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="30dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp"
+                android:background="#CCF3EEE6"
+                android:elevation="1dp"
+                android:layout_marginTop="4dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="About NIRF"
+                    android:textColor="#5A4638"
+                    android:textSize="18sp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Explore engineering colleges based on their NIRF 2025 ranking and score."
+                    android:textColor="#756B63"
+                    android:textSize="14sp"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_marginTop="7dp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Explore By"
+                android:textColor="#2F2924"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                android:layout_marginTop="32dp"
+                android:layout_marginBottom="14dp"/>
+
+            <Button
+                android:id="@+id/btnRankWise"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:text="NIRF RANK WISE"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#5A4638"
+                android:elevation="3dp"
+                android:layout_marginBottom="18dp"/>
+
+            <Button
+                android:id="@+id/btnBandWise"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:text="NIRF BAND WISE"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#806A59"
+                android:elevation="3dp"
+                android:layout_marginBottom="38dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Popular Rank Bands"
+                android:textColor="#2F2924"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quickly explore colleges within a rank range"
+                android:textColor="#8A7E73"
+                android:textSize="14sp"
+                android:layout_marginBottom="16dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBand1"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="Rank 1 - 10"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#5A4638"
+                    android:backgroundTint="#E5D8C8"
+                    android:elevation="1dp"
+                    android:layout_marginEnd="6dp"/>
+
+                <Button
+                    android:id="@+id/btnBand2"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="Rank 11 - 20"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#5A4638"
+                    android:backgroundTint="#E5D8C8"
+                    android:elevation="1dp"
+                    android:layout_marginStart="6dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="16dp">
+
+                <Button
+                    android:id="@+id/btnBand3"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="Rank 21 - 50"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#5A4638"
+                    android:backgroundTint="#E5D8C8"
+                    android:elevation="1dp"
+                    android:layout_marginEnd="6dp"/>
+
+                <Button
+                    android:id="@+id/btnBand4"
+                    android:layout_width="0dp"
+                    android:layout_height="56dp"
+                    android:layout_weight="1"
+                    android:text="Rank 51 - 100"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#5A4638"
+                    android:backgroundTint="#E5D8C8"
+                    android:elevation="1dp"
+                    android:layout_marginStart="6dp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="NIRF 2025 • Engineering Rankings"
+                android:textColor="#A09489"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:layout_marginTop="32dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

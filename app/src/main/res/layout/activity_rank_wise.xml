@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F3EEE6"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="12dp">
+
+    <!-- Back Button -->
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:text="← Back"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#5A4638"
+        android:elevation="2dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="18dp"/>
+
+
+    <!-- Page Title -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIRF Ranked Colleges"
+        android:textSize="27sp"
+        android:textStyle="bold"
+        android:textColor="#2F2924"
+        android:gravity="center"
+        android:layout_marginBottom="7dp"/>
+
+
+    <!-- Subtitle -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Explore colleges by their NIRF engineering rank"
+        android:textSize="14sp"
+        android:textColor="#806F62"
+        android:gravity="center"
+        android:layout_marginBottom="22dp"/>
+
+
+    <!-- Search Box -->
+
+    <EditText
+        android:id="@+id/searchCollege"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Search college, city or state..."
+        android:textSize="16sp"
+        android:textColor="#2F2924"
+        android:textColorHint="#9A8F85"
+        android:paddingStart="18dp"
+        android:paddingEnd="18dp"
+        android:background="#FFFDFC"
+        android:singleLine="true"
+        android:elevation="2dp"
+        android:layout_marginBottom="18dp"/>
+
+
+    <!-- College List -->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/collegeRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:paddingTop="4dp"
+        android:paddingBottom="12dp"/>
+
+</LinearLayout>

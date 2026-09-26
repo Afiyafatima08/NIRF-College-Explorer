@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="18dp"
+    android:layout_marginBottom="14dp"
+    android:background="#FFFDFC"
+    android:elevation="2dp">
+
+    <!-- Rank -->
+
+    <TextView
+        android:id="@+id/txtRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#1"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#5A4638"
+        android:background="#E5D8C8"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"/>
+
+
+    <!-- College Name -->
+
+    <TextView
+        android:id="@+id/txtCollegeName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Indian Institute of Technology Madras"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:textColor="#2F2924"
+        android:lineSpacingExtra="2dp"
+        android:layout_marginTop="12dp"/>
+
+
+    <!-- Location -->
+
+    <TextView
+        android:id="@+id/txtLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chennai, Tamil Nadu"
+        android:textSize="15sp"
+        android:textColor="#756B63"
+        android:layout_marginTop="8dp"/>
+
+
+    <!-- Divider -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E7DED4"
+        android:layout_marginTop="13dp"
+        android:layout_marginBottom="10dp"/>
+
+
+    <!-- Bottom Information -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/txtType"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="IIT"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="#806A59"/>
+
+        <TextView
+            android:id="@+id/txtScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIRF 88.72"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="#5A4638"/>
+
+    </LinearLayout>
+
+</LinearLayout>
